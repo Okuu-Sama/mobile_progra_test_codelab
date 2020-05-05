@@ -1,0 +1,2 @@
+rootProject.name='mobile_progra_test_codelab'
+include ':app'
